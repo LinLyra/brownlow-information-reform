@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite it using the metadata below."
+title: "When Judges Get the Data: Recognition Around the 2026 Brownlow Medal Information Reform"
+type: software
+authors:
+  - family-names: "Lin"
+    given-names: "Lyra"
+date-released: "2026-09-30"
+license: MIT
+repository-code: "https://github.com/LinLyra/brownlow-information-reform"
+keywords:
+  - sports analytics
+  - human evaluation
+  - information reform
+  - Brownlow Medal
+  - Australian Football League

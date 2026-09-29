@@ -1,0 +1,13 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+
+# Third-party or row-level research data must not be committed without permission.
+data/raw/
+data/private/
+data/derived/
+*.parquet
+

@@ -1,0 +1,8 @@
+claim_id,manuscript_claim,status,result_file,result_field,code_file,limitation
+C1,Visible-stat sensitivity increased in 2026,supported,results/SSAC_ABSTRACT_RESULTS.csv;results/pseudo_reform_results.csv,Visible-stat sensitivity change;visible_change,src/run_final_identification.py,One post season and no untreated league control
+C2,The 2026 break was unusual relative to earlier pseudo reforms,supported_descriptive,results/pseudo_reform_results.csv,visible_change by intervention_year,src/run_final_identification.py,Only three pseudo years; no randomization p-value
+C3,The change was specific to supplied information,suggestive,results/SSAC_ABSTRACT_RESULTS.csv,Visible-minus-placebo,src/run_final_identification.py,Direct contrast CI crosses zero and indices correlate 0.787
+C4,Coach and umpire recognition became more aligned,supported,results/coach_umpire_alignment_robustness.csv,player_match_spearman;top3_overlap;winner_agreement,src/run_final_identification.py,Coach assessment is not ground truth
+C5,Expected-recognition model outperforms simple baselines,supported,results/expected_recognition_validation.csv,rmse;mae;three_vote_hit_rate;top3_recall,src/run_final_identification.py,Measurement validation rather than central contribution
+C6,Recognition persistence exists,not_supported,results/reputation_non_replication.csv,coefficient;ci_low;ci_high,src/run_final_identification.py,Development association failed frozen confirmation
+C7,The reform caused the structural change,not_supported,audit/CLAIM_AUDIT.md,,src/run_final_identification.py,No untreated control and one post season

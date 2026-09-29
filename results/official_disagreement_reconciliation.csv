@@ -1,0 +1,25 @@
+match_id,player_name,player_team,coaches_votes,actual_votes,rule_triggered,official_article_match,possible_explanation
+17064,Sam Walsh,Carlton,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17065,Connor Macdonald,Hawthorn,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17069,Wayne Milera,Adelaide,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17070,Charlie Comben,North Melbourne,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17079,Harry Sheezel,North Melbourne,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17088,Caleb Daniel,North Melbourne,10,0.0,10 coach / 0 Brownlow,False,Extra local event: Caleb Daniel received 10 recorded coach votes v Carlton in R4 but is absent from AFL article
+17109,Sam Flanders,St Kilda,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17136,Touk Miller,Gold Coast,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17138,Kade Chandler,Melbourne,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17143,Jordan Dawson,Adelaide,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17149,Jarman Impey,Hawthorn,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17169,Esava Ratugolea,Port Adelaide,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17169,Zak Butters,Port Adelaide,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17174,Max Holmes,Geelong,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17185,Caleb Daniel,North Melbourne,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17188,Jai Newcombe,Hawthorn,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17203,Murphy Reid,Fremantle,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17217,Harris Andrews,Brisbane Lions,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17231,Karl Worner,Fremantle,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17231,Murphy Reid,Fremantle,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17247,Sam Walsh,Carlton,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17247,Francis Evans,Carlton,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article
+17250,Bailey Smith,Geelong,0,3.0,3 Brownlow / 0 coach,True,Listed by AFL article
+17252,Beau McCreery,Collingwood,10,0.0,10 coach / 0 Brownlow,True,Listed by AFL article

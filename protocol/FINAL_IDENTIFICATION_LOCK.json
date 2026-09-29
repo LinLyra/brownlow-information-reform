@@ -1,0 +1,20 @@
+{
+  "locked_at": "2026-09-29T00:00:00+10:00",
+  "status": "locked_after_reproduction_gate_before_new_results",
+  "protocol_sha256": "b1dc63da1847a7b6ae654805126305297e82c5dd4353e952af0b837301103eed",
+  "primary_estimand": "2026 visible-stat sensitivity change and visible-minus-placebo change",
+  "standardization": "within-match percentile rank centered at 0.5; equal-weight information-set mean; global panel standardization",
+  "controls": ["team_won", "position fixed effects", "season fixed effects"],
+  "cluster": "match_id",
+  "sample": "all frozen/OOT player-match rows, 2022-2026",
+  "missing_data": "no missing required statistics; no silent deletion; kick-ins unavailable and omitted",
+  "pseudo_years": [2023, 2024, 2025, 2026],
+  "pseudo_sample_rule": "expanding 2022 through target year; target indicator equals one only in final year",
+  "robustness": ["within-match z-score equal weight", "pre-2026 PCA1", "pre-2026 fixed ridge predictive weights", "leave-one-visible-stat-out"],
+  "multiple_testing": ["primary interactions Holm", "feature families Holm"],
+  "file_hashes": {
+    "frozen_2026": "5be4cc3381529c4bb88ca5c5197f5c5481b7e114f62a5c697ad61e71a1bfb5ad",
+    "raw_dataset": "760dc1cc738ed454a1f3d79c598fa99c10327f06a83cd2cd879d8686d5ba040a",
+    "residual_panel": "5c4901fb894c6971603f0914f2c45dacdcd7eb78c52e83c5705929700d45d79a"
+  }
+}
